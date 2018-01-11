@@ -1,4 +1,38 @@
-## Welcome to GitHub Pages
+# Πολυμέσα Super Mario
+
+Ονοματεπώνυμο: Αστέριος Παπαμιχαήλ
+
+Αριθμός Μητρώου: Π2015059
+### Links
+[Αποθετήριο του κώδικα για το 2ο Παραδοτέο](https://github.com/AsteriosP/Super-Mario/tree/Paradoteo-2o)
+
+[Αποθετήριο του κώδικα για το 3ο Παραδοτέο](https://github.com/AsteriosP/Super-Mario/tree/Papadoteo-3o)
+
+[Αποθετήριο του κώδικα για το 4ο Παραδοτέο](https://github.com/AsteriosP/Super-Mario/tree/Papadoteo-4o)
+
+[Εκτελέσιμο Παράδειγμα στο gh-pages](https://asteriosp.github.io/Super-Mario/)
+
+
+
+### Σύνοψη
+Σε αυτό το εξάμηνο επιλέχθηκε το **Super Mario** για παιχνιδι που έγιναν τροποποιήσεις για σκοπό της εργασίας του μαθήματος
+**Πολυμέσα**. 
+
+### εισαγωγή, 
+
+### Επιλογή εργαλείων
+
+Τα εργαλεία που χρησιμοποιήθηκαν είναι τα εξής: 
+- Tilled (Δημιουργεία της πίστας)
+- Gimp (Επεξεργασία των Animations)
+- Aton Editor (Επεξεργασία και δειμιουργεία του κώδικα)
+- Phaser
+
+### Διαδικασία Ανάπτυξης
+Αρχικά άλλαξα τον χαρακτήρα του Super Mario. λεπτομέριες παρακάτω.
+
+
+, ενδεικτικές οθόνες, συμπεράσματα.
 
 You can use the [editor on GitHub](https://github.com/AsteriosP/MM-Report/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
